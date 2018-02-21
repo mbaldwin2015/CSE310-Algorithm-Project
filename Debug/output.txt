@@ -1,0 +1,382 @@
+
+bsort 2015 penalties decr
+Team			penalties
+"Tampa Bay Buccaneers"	143
+"Buffalo Bills"		143
+"Oakland Raiders"	139
+"Miami Dolphins"	134
+"New Orleans Saints"	130
+"Baltimore Ravens"	122
+"St. Louis Rams"	122
+"Cleveland Browns"	120
+"Seattle Seahawks"	117
+"San Diego Chargers"	117
+"Denver Broncos"	115
+"San Francisco 49ers"	113
+"Dallas Cowboys"	112
+"Cincinnati Bengals"	111
+"Indianapolis Colts"	108
+"Houston Texans"	107
+"Washington Redskins"	105
+"Jacksonville Jaguars"	105
+"Green Bay Packers"	105
+"Philadelphia Eagles"	104
+"Detroit Lions"		104
+"Kansas City Chiefs"	104
+"Carolina Panthers"	103
+"New York Giants"	102
+"Atlanta Falcons"	100
+"Chicago Bears"		99
+"New England Patriots"	96
+"New York Jets"		96
+"Arizona Cardinals"	94
+"Pittsburgh Steelers"	94
+"Tennessee Titans"	93
+"Minnesota Vikings"	88
+
+bfind 2015 to median
+median to
+2
+
+bsort range 2011 2013 first_per_game decr
+Team			first_per_game	Year
+"New England Patriots"	27.8		2012
+"Denver Broncos"	27.2		2013
+"New Orleans Saints"	26		2011
+"New England Patriots"	24.9		2011
+"Detroit Lions"		23.9		2012
+"Denver Broncos"	23.8		2012
+"New England Patriots"	23.6		2013
+"San Diego Chargers"	23.3		2013
+"Indianapolis Colts"	22.5		2012
+"San Diego Chargers"	22.4		2011
+"New Orleans Saints"	22.4		2013
+"Philadelphia Eagles"	22.2		2011
+"Philadelphia Eagles"	22.2		2013
+"Green Bay Packers"	22.1		2011
+"New Orleans Saints"	22		2012
+"Green Bay Packers"	21.9		2013
+"Detroit Lions"		21.9		2013
+"Detroit Lions"		21.8		2011
+"Atlanta Falcons"	21.8		2011
+"Carolina Panthers"	21.6		2011
+"Chicago Bears"		21.5		2013
+"Atlanta Falcons"	21.4		2012
+"Pittsburgh Steelers"	21.3		2011
+"Washington Redskins"	21.3		2012
+"Houston Texans"	21.3		2012
+"Green Bay Packers"	21.3		2012
+"Dallas Cowboys"	21.1		2012
+"Philadelphia Eagles"	20.8		2012
+"New York Giants"	20.7		2011
+"Washington Redskins"	20.6		2013
+"Cincinnati Bengals"	20.6		2013
+"Arizona Cardinals"	20.6		2013
+"Atlanta Falcons"	20.6		2013
+"Oakland Raiders"	20.5		2011
+"Carolina Panthers"	20.5		2012
+"Dallas Cowboys"	20.4		2011
+"New York Giants"	20.4		2012
+"Dallas Cowboys"	20.3		2013
+"Kansas City Chiefs"	20.2		2013
+"Houston Texans"	20.1		2011
+"San Francisco 49ers"	20.1		2012
+"Indianapolis Colts"	19.9		2013
+"Carolina Panthers"	19.9		2013
+"Buffalo Bills"		19.6		2011
+"Baltimore Ravens"	19.6		2012
+"Baltimore Ravens"	19.5		2011
+"Washington Redskins"	19.5		2011
+"Pittsburgh Steelers"	19.5		2013
+"Seattle Seahawks"	19.4		2012
+"Tennessee Titans"	19.4		2013
+"Minnesota Vikings"	19.3		2013
+"Pittsburgh Steelers"	19.2		2012
+"Houston Texans"	19.2		2013
+"Seattle Seahawks"	19.2		2013
+"Minnesota Vikings"	19.1		2012
+"New York Jets"		18.8		2011
+"Tampa Bay Buccaneers"	18.8		2012
+"Oakland Raiders"	18.8		2012
+"Buffalo Bills"		18.8		2012
+"Cleveland Browns"	18.8		2013
+"Buffalo Bills"		18.8		2013
+"New York Jets"		18.7		2012
+"Minnesota Vikings"	18.6		2011
+"Baltimore Ravens"	18.4		2013
+"San Diego Chargers"	18.3		2012
+"Cincinnati Bengals"	18.2		2012
+"Chicago Bears"		18.2		2012
+"Miami Dolphins"	18		2012
+"Arizona Cardinals"	17.9		2011
+"Miami Dolphins"	17.9		2011
+"Denver Broncos"	17.9		2011
+"St. Louis Rams"	17.9		2012
+"Kansas City Chiefs"	17.9		2012
+"San Francisco 49ers"	17.9		2013
+"Cincinnati Bengals"	17.8		2011
+"Tennessee Titans"	17.6		2011
+"San Francisco 49ers"	17.6		2011
+"St. Louis Rams"	17.6		2013
+"New York Jets"		17.5		2013
+"New York Giants"	17.5		2013
+"Cleveland Browns"	17.4		2011
+"Cleveland Browns"	17.4		2012
+"Miami Dolphins"	17.4		2013
+"Tampa Bay Buccaneers"	17.3		2011
+"Kansas City Chiefs"	17.3		2011
+"Oakland Raiders"	17.2		2013
+"Chicago Bears"		16.9		2011
+"Jacksonville Jaguars"	16.9		2013
+"Jacksonville Jaguars"	16.8		2012
+"Tampa Bay Buccaneers"	16.8		2013
+"St. Louis Rams"	16.7		2011
+"Seattle Seahawks"	16.6		2011
+"Tennessee Titans"	16.2		2012
+"Indianapolis Colts"	16.1		2011
+"Jacksonville Jaguars"	15.7		2011
+"Arizona Cardinals"	15.4		2012
+
+qsort 2015 pts_per_game decr
+Team			Points Per Game
+"Carolina Panthers"	31.2
+"Arizona Cardinals"	30.6
+"New England Patriots"	29.1
+"Seattle Seahawks"	26.4
+"Pittsburgh Steelers"	26.4
+"Cincinnati Bengals"	26.2
+"New York Giants"	26.2
+"New Orleans Saints"	25.5
+"Kansas City Chiefs"	25.3
+"Washington Redskins"	24.2
+"New York Jets"		24.2
+"Buffalo Bills"		23.7
+"Philadelphia Eagles"	23.6
+"Jacksonville Jaguars"	23.5
+"Green Bay Packers"	23
+"Minnesota Vikings"	22.8
+"Detroit Lions"		22.4
+"Oakland Raiders"	22.4
+"Denver Broncos"	22.2
+"Tampa Bay Buccaneers"	21.4
+"Atlanta Falcons"	21.2
+"Houston Texans"	21.2
+"Chicago Bears"		20.9
+"Indianapolis Colts"	20.8
+"Baltimore Ravens"	20.5
+"San Diego Chargers"	20
+"Miami Dolphins"	19.4
+"Tennessee Titans"	18.7
+"St. Louis Rams"	17.5
+"Cleveland Browns"	17.4
+"Dallas Cowboys"	17.2
+"San Francisco 49ers"	14.9
+
+
+qsort range 2011 2014 fourth_pct incr
+Team			4th Down Percent	Year
+"New York Jets"		12		2013
+"Denver Broncos"	23		2011
+"Chicago Bears"		25		2011
+"Atlanta Falcons"	25		2012
+"Washington Redskins"	25		2014
+"Miami Dolphins"	25		2013
+"Oakland Raiders"	25		2012
+"Seattle Seahawks"	27		2014
+"Houston Texans"	27		2011
+"Buffalo Bills"		29		2013
+"Washington Redskins"	30		2013
+"New Orleans Saints"	30		2011
+"Indianapolis Colts"	30		2013
+"Jacksonville Jaguars"	31		2012
+"New York Giants"	31		2011
+"Atlanta Falcons"	31		2011
+"New York Giants"	31		2014
+"Washington Redskins"	31		2011
+"St. Louis Rams"	33		2013
+"Tennessee Titans"	33		2012
+"Carolina Panthers"	33		2012
+"Miami Dolphins"	33		2012
+"Tampa Bay Buccaneers"	33		2014
+"Jacksonville Jaguars"	35		2011
+"St. Louis Rams"	35		2011
+"Houston Texans"	35		2013
+"Tennessee Titans"	35		2014
+"Indianapolis Colts"	36		2011
+"Tampa Bay Buccaneers"	36		2013
+"Cleveland Browns"	36		2014
+"New York Jets"		36		2011
+"Kansas City Chiefs"	36		2013
+"San Diego Chargers"	36		2011
+"Detroit Lions"		36		2013
+"Jacksonville Jaguars"	37		2014
+"Miami Dolphins"	37		2014
+"Baltimore Ravens"	38		2013
+"Pittsburgh Steelers"	38		2011
+"Miami Dolphins"	38		2011
+"Chicago Bears"		38		2012
+"Tampa Bay Buccaneers"	38		2011
+"Minnesota Vikings"	39		2011
+"Cincinnati Bengals"	40		2011
+"Detroit Lions"		40		2012
+"Green Bay Packers"	40		2014
+"St. Louis Rams"	40		2014
+"Indianapolis Colts"	40		2014
+"Tampa Bay Buccaneers"	41		2012
+"Kansas City Chiefs"	41		2011
+"Buffalo Bills"		41		2011
+"Arizona Cardinals"	42		2012
+"Kansas City Chiefs"	42		2014
+"Baltimore Ravens"	43		2012
+"Buffalo Bills"		43		2014
+"Atlanta Falcons"	43		2013
+"Jacksonville Jaguars"	43		2013
+"Cleveland Browns"	44		2012
+"Cleveland Browns"	45		2013
+"Chicago Bears"		46		2014
+"Denver Broncos"	46		2014
+"Pittsburgh Steelers"	46		2012
+"San Diego Chargers"	46		2014
+"Seattle Seahawks"	47		2011
+"New England Patriots"	47		2013
+"New Orleans Saints"	47		2013
+"Kansas City Chiefs"	47		2012
+"Philadelphia Eagles"	47		2011
+"Pittsburgh Steelers"	50		2014
+"Dallas Cowboys"	50		2014
+"Atlanta Falcons"	50		2014
+"Green Bay Packers"	50		2011
+"Baltimore Ravens"	50		2014
+"Dallas Cowboys"	50		2011
+"New York Giants"	50		2013
+"Philadelphia Eagles"	50		2013
+"Minnesota Vikings"	50		2014
+"Detroit Lions"		50		2014
+"New York Giants"	50		2012
+"New York Jets"		50		2012
+"New Orleans Saints"	53		2014
+"Minnesota Vikings"	53		2013
+"San Diego Chargers"	54		2012
+"New England Patriots"	54		2014
+"Green Bay Packers"	54		2012
+"Seattle Seahawks"	54		2013
+"St. Louis Rams"	54		2012
+"Cincinnati Bengals"	54		2014
+"Oakland Raiders"	54		2011
+"New York Jets"		56		2014
+"San Francisco 49ers"	56		2014
+"Cleveland Browns"	56		2011
+"Arizona Cardinals"	56		2013
+"Houston Texans"	57		2012
+"Baltimore Ravens"	57		2011
+"Detroit Lions"		57		2011
+"New Orleans Saints"	57		2012
+"Cincinnati Bengals"	57		2013
+"Philadelphia Eagles"	58		2012
+"Oakland Raiders"	58		2013
+"Houston Texans"	59		2014
+"Oakland Raiders"	60		2014
+"Arizona Cardinals"	60		2011
+"Carolina Panthers"	60		2014
+"Pittsburgh Steelers"	60		2013
+"Denver Broncos"	60		2012
+"Carolina Panthers"	60		2011
+"Seattle Seahawks"	61		2012
+"Chicago Bears"		62		2013
+"Buffalo Bills"		62		2012
+"Philadelphia Eagles"	64		2014
+"Minnesota Vikings"	64		2012
+"New England Patriots"	64		2011
+"San Francisco 49ers"	64		2013
+"San Francisco 49ers"	64		2011
+"Tennessee Titans"	65		2013
+"New England Patriots"	67		2012
+"San Francisco 49ers"	67		2012
+"Dallas Cowboys"	67		2013
+"Green Bay Packers"	69		2013
+"Cincinnati Bengals"	69		2012
+"Washington Redskins"	71		2012
+"Tennessee Titans"	71		2011
+"Dallas Cowboys"	73		2012
+"Arizona Cardinals"	75		2014
+"Carolina Panthers"	77		2013
+"San Diego Chargers"	83		2013
+"Indianapolis Colts"	88		2012
+"Denver Broncos"	89		2013
+
+
+bfind 2014 lost average
+average lost
+9.625
+
+qfind 2015 top_per_game min
+Team				Min top_per_game
+"Philadelphia Eagles"		26:06
+
+qsort range 2014 2015 penalties incr
+Team			Penalties	Year
+"Jacksonville Jaguars"	73		2014
+"New Orleans Saints"	80		2014
+"Miami Dolphins"	81		2014
+"Carolina Panthers"	83		2014
+"Minnesota Vikings"	88		2015
+"Kansas City Chiefs"	88		2014
+"Arizona Cardinals"	91		2014
+"Green Bay Packers"	92		2014
+"Tennessee Titans"	93		2015
+"Houston Texans"	94		2014
+"Arizona Cardinals"	94		2015
+"Pittsburgh Steelers"	94		2015
+"New York Jets"		96		2015
+"New England Patriots"	96		2015
+"Atlanta Falcons"	97		2014
+"Chicago Bears"		99		2015
+"Atlanta Falcons"	100		2015
+"Minnesota Vikings"	100		2014
+"New York Giants"	101		2014
+"Cincinnati Bengals"	102		2014
+"New York Giants"	102		2015
+"Pittsburgh Steelers"	103		2014
+"Carolina Panthers"	103		2015
+"Kansas City Chiefs"	104		2015
+"Detroit Lions"		104		2015
+"Philadelphia Eagles"	104		2015
+"Jacksonville Jaguars"	105		2015
+"Green Bay Packers"	105		2015
+"Indianapolis Colts"	105		2014
+"Dallas Cowboys"	105		2014
+"Washington Redskins"	105		2015
+"Houston Texans"	107		2015
+"Indianapolis Colts"	108		2015
+"New York Jets"		109		2014
+"Tennessee Titans"	111		2014
+"San Diego Chargers"	111		2014
+"Cincinnati Bengals"	111		2015
+"Baltimore Ravens"	111		2014
+"Dallas Cowboys"	112		2015
+"Chicago Bears"		113		2014
+"San Francisco 49ers"	113		2015
+"Philadelphia Eagles"	115		2014
+"Denver Broncos"	115		2015
+"San Francisco 49ers"	116		2014
+"Oakland Raiders"	116		2014
+"Cleveland Browns"	116		2014
+"Seattle Seahawks"	117		2015
+"San Diego Chargers"	117		2015
+"Detroit Lions"		118		2014
+"Tampa Bay Buccaneers"	118		2014
+"Cleveland Browns"	120		2015
+"Denver Broncos"	120		2014
+"Washington Redskins"	120		2014
+"New England Patriots"	120		2014
+"St. Louis Rams"	122		2015
+"Baltimore Ravens"	122		2015
+"St. Louis Rams"	123		2014
+"Buffalo Bills"		124		2014
+"New Orleans Saints"	130		2015
+"Seattle Seahawks"	130		2014
+"Miami Dolphins"	134		2015
+"Oakland Raiders"	139		2015
+"Buffalo Bills"		143		2015
+"Tampa Bay Buccaneers"	143		2015
+
